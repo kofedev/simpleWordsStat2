@@ -1,0 +1,16 @@
+### English Words Counter, ver 2 ###
+#
+# git remote add origin https://github.com/gregoryme/simpleWordsStat2.git
+# git branch -M main
+# git push -u origin main 
+#
+
+dev_matters/
+target/
+src/test/
+.idea/
+.DS_Store
+out/
+src/main/java/META-INF/
+
+
